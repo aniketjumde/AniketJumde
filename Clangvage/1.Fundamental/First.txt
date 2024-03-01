@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main()
+{
+  printf("Hello,I am ANIKET");
+
+  return 0;
+}
